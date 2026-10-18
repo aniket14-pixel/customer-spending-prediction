@@ -1,0 +1,19 @@
+CUSTOMER SPENDING PREDICTION — QUICK START (Mac)
+
+1. Extract the ZIP and open the folder in VS Code.
+2. Open Terminal in the project folder.
+3. Run:
+   python3 -m venv .venv
+   source .venv/bin/activate
+   pip install -r requirements.txt
+   python train_model.py
+   streamlit run app.py
+4. Open the local URL shown by Streamlit (usually http://localhost:8501).
+
+Project deliverables:
+- Source code: app.py, train_model.py, eda.py
+- Data: data/customer_data.csv and data/customer_data_cleaned.csv
+- Saved trained model: models/best_model.joblib
+- Report: reports/Customer_Spending_Prediction_Report.pdf
+- Presentation: reports/Customer_Spending_Prediction_Presentation.pptx
+- Evaluation metrics and charts: reports/

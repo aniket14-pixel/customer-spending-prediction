@@ -1,0 +1,7 @@
+{
+  "best_model": "Hist Gradient Boosting",
+  "best_mae": 267.91423585064194,
+  "best_rmse": 381.8282042744056,
+  "best_r2": 0.9951716654281424,
+  "rows_after_cleaning": 1000
+}
